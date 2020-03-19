@@ -326,3 +326,21 @@ main section:nth-child(1) {
 .cultureandtravel img {
   height: 140px;
 }
+
+/* more stories */
+
+.more-content .media {
+  border-top: 1px solid #aaa;
+  padding: 10px 0;
+
+}
+
+.more-content .media-body {
+  font-size: 13px;
+
+}
+
+.more-content .mt-0 {
+  font-size: 17px;
+  
+}
