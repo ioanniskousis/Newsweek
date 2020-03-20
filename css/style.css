@@ -358,8 +358,9 @@ a:hover {
   margin-left: -30px;
 }
 
-.opinion-section .media {
-  background-color: gainsboro;
+.opinion-section,
+.latest-news .media {
+  /* background-color: gainsboro; */
   border-bottom: 1px solid #ccc;
   width: 110%;
   padding-bottom: 10px;
@@ -385,7 +386,8 @@ a:hover {
 
 /* the-dabate-section */
 
-.the-dabate-section .media {
+.the-dabate-section,
+.latest-news .media {
   padding-bottom: 10px;
   border-bottom: 1px solid #aaa;
 }
@@ -454,4 +456,43 @@ a:hover {
   position: absolute;
   bottom: 10px;
   margin-left: -10px;
+}
+
+/* latest-news */
+
+.latest-news {
+  margin-top: 10px;
+}
+
+.latest-news .media {
+  margin-top: 10px;
+}
+
+.latest-news .media h5:hover {
+  color: red;
+}
+
+/* in-the-magazine */
+
+.in-the-magazine {
+  position: relative;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.in-the-magazine-header {
+  /* background-color: #aaa; */
+  position: relative;
+  /* display: inline-block; */
+  margin: auto;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 30px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #aaa;
+}
+
+.in-the-magazine-header img {
+  width: 30px;
+  margin-right: 10px;
 }
