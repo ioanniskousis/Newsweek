@@ -76,7 +76,7 @@
 }
 
 ._searchForm {
-  position: absolute;
+  /* position: absolute; */
   right: 70px;
   bottom: 16px;
   width: 90px;
@@ -84,11 +84,6 @@
   background-position: right 7px;
   background-repeat: no-repeat;
   background-size: 22px 22px;
-}
-
-._img-baner {
-  /* position: absolute; */
-  /* bottom: -16px; */
 }
 
 ._debate-by-writer::before {
