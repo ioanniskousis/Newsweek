@@ -22,6 +22,10 @@
   font-family: Arial,Helvetica,sans-serif;
 }
 
+._helvetica {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 ._fnt25 {
   font-size: 25px;
 }
@@ -70,7 +74,15 @@
 
 ._pipe::before {
   content: "|";
-  margin-right: 0.9em;
+  margin-right: 0.9vw;
+  color: #aaa;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+._pipe2::before {
+  content: "|";
+  margin-right: 0.5em;
   color: #aaa;
   font-family: 'Open Sans Condensed', sans-serif;
 }
