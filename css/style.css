@@ -7,12 +7,12 @@
 
 .nav-link {
   margin: 0;
-  padding: 8px 0 8px 0 ;
+  padding: 8px 0 8px 0;
 }
 
 .nav-div {
   padding: 2px 0 2px 0;
-  width: calc(100% - 160px); 
+  width: calc(100% - 160px);
   position: relative;
 }
 
@@ -50,6 +50,10 @@
 
 ._fnt22 {
   font-size: 22px;
+}
+
+._fnt20 {
+  font-size: 20px;
 }
 
 ._fnt18 {
@@ -114,7 +118,6 @@
   background-position: right 2px;
   background-repeat: no-repeat;
   background-size: 22px 22px;
-  transition: ease;
   transition-duration: 0.2s;
 }
 
@@ -127,9 +130,46 @@
   border: none;
   outline: none;
 }
- 
+
 ._debate-by-writer::before {
   content: "BY";
   margin-right: 5px;
   color: #888;
+}
+
+#starting5 {
+  height: 140px;
+  background: url("../images/content/starting5-homepage.png") no-repeat center center;
+  background-size: cover;
+}
+
+._section-heading {
+  display: block;
+  overflow: hidden;
+  width: 0;
+  height: 0;
+}
+
+@media only screen and (min-width: 1201px) {
+  #starting5 {
+    height: 300px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  #starting5 {
+    height: 300px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #starting5 {
+    height: 250px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #starting5 {
+    height: 160px;
+  }
 }

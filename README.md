@@ -2,6 +2,21 @@
 This project demonstrates the use of Twitter’s Bootstrap framework by building a mock-up of Newsweek site that actually uses it
 
 > The structure of the index page (index.html) is based on the Newsweek.com main page
+> The page shows a variety of sections of links to articles and shows them responding to small, medium and large screens
+- Top Story
+- Featured Stories
+- Opinion
+- Debate
+- More Stories
+- Culture and Travel
+- Latest News
+- In The Magazine
+- Editor's Pick
+- Series of Slide Shows
+
+>These sections are rearranged depending on the size of the screen
+
+## To achive this, Bootstrap breakpoints and media queries have been used
 
 ![screenshot](images/Screen_Shot_sm.png)
 ![screenshot](images/Screen_Shot_md.png)
@@ -18,7 +33,7 @@ The structure of the index page is based on the Newsweek.com main page in small 
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/ioanniskousis/Newsweek/595d3f237af2d17a6e638e8509277bbf2ee71c73/index.html)
+[Live Demo Link]()
 
 ## Getting Started
 
@@ -34,8 +49,6 @@ To get a local copy up and running follow these simple example steps.
 
 
 ## 👤 Authors
-
-### Author1
 ## Ioannis Kousis
 
 - Github: [@ioanniskousis](https://github.com/ioanniskousis)
