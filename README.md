@@ -33,7 +33,7 @@ The structure of the index page is based on the Newsweek.com main page in small 
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://rawcdn.githack.com/ioanniskousis/Newsweek/ed06e778ebfe06c9a9f164fa4cb8eebd24d5e242/index.html)
 
 ## Getting Started
 
@@ -48,7 +48,7 @@ To get a local copy up and running follow these simple example steps.
 #### Clone the repository into your local machine.
 
 
-## 👤 Authors
+## 👤 Author
 ## Ioannis Kousis
 
 - Github: [@ioanniskousis](https://github.com/ioanniskousis)
