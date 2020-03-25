@@ -1,3 +1,11 @@
+body {
+  background-color: rgb(244, 245, 246);
+}
+
+._w1310 {
+  max-width: 1310px;
+}
+
 .nav-item {
   line-height: 0.5;
   padding-left: 0;
@@ -44,6 +52,10 @@
   font-size: 80px;
 }
 
+._fnt44 {
+  font-size: 44px;
+}
+
 ._fnt25 {
   font-size: 25px;
 }
@@ -76,12 +88,102 @@
   font-size: 13px;
 }
 
+._fnt12 {
+  font-size: 12px;
+}
+
 ._lspc-5 {
   letter-spacing: -4px;
 }
 
 ._lh1 {
   line-height: 1;
+}
+
+._lh09 {
+  line-height: 0.9em;
+}
+
+._right0 {
+  right: 0;
+}
+
+._mr-13 {
+  margin-right: -13px;
+}
+
+._ml6 {
+  margin-left: 6px;
+}
+
+._w100 {
+  width: 100%;
+}
+
+._w5-5 {
+  width: 5.5%;
+}
+
+._w7 {
+  width: 7%;
+}
+
+._w8 {
+  width: 8%;
+}
+
+._w8-5 {
+  width: 8.5%;
+}
+
+._w9 {
+  width: 9%;
+}
+
+._w10 {
+  width: 10%;
+}
+
+._w11 {
+  width: 11%;
+}
+
+._w12 {
+  width: 12%;
+}
+
+._w15 {
+  width: 15%;
+}
+
+._b-16 {
+  bottom: -16px;
+}
+
+._bt-4-red {
+  border-top: 4px solid red;
+}
+
+._bt-4-blue {
+  border-top: 4px solid dodgerblue;
+}
+
+._vs {
+  width:40px;
+  height: 40px;
+}
+
+._img-top-right {
+  top: -20px;
+  right: 10px;
+}
+
+._bgRed {
+  background-color: red;
+}
+
+._red {
+  color: red;
 }
 
 ._sticky {
