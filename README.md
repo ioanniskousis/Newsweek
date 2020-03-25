@@ -33,7 +33,7 @@ The structure of the index page is based on the Newsweek.com main page in small 
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/ioanniskousis/Newsweek/ed06e778ebfe06c9a9f164fa4cb8eebd24d5e242/index.html)
+[Live Demo Link](https://rawcdn.githack.com/ioanniskousis/Newsweek/97854e5b14dad5dc8d2c39478d838b3bcfde9df6/index.html)
 
 ## Getting Started
 
