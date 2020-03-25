@@ -179,11 +179,11 @@ body {
 }
 
 ._bgRed {
-  background-color: red;
+  background-color: rgb(255, 0, 0);
 }
 
 ._red {
-  color: red;
+  color: rgb(255, 0, 0);
 }
 
 ._sticky {
@@ -193,7 +193,7 @@ body {
 }
 
 ._hovRed:hover {
-  color: red;
+  color: rgb(255, 0, 0);
 }
 
 ._pipe::before {
