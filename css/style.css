@@ -61,7 +61,7 @@
 }
 
 ._fnt17 {
-  font-size: 18px;
+  font-size: 17px;
 }
 
 ._fnt15 {
@@ -137,7 +137,7 @@
   color: #888;
 }
 
-#starting5 {
+.starting5 {
   height: 140px;
   background: url("../images/content/starting5-homepage.png") no-repeat center center;
   background-size: cover;
@@ -151,25 +151,25 @@
 }
 
 @media only screen and (min-width: 1201px) {
-  #starting5 {
+  .starting5 {
     height: 300px;
   }
 }
 
 @media only screen and (max-width: 1200px) {
-  #starting5 {
+  .starting5 {
     height: 300px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  #starting5 {
+  .starting5 {
     height: 250px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  #starting5 {
+  .starting5 {
     height: 160px;
   }
 }
