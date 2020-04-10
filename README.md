@@ -1,3 +1,16 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[contributors-shield]: https://img.shields.io/github/contributors/ioanniskousis/Newsweek.svg?style=flat-square
+[contributors-url]: https://github.com/ioanniskousis/Newsweek/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ioanniskousis/Newsweek.svg?style=flat-square
+[forks-url]: https://github.com/ioanniskousis/Newsweek/network/members
+[stars-shield]: https://img.shields.io/github/stars/ioanniskousis/Newsweek.svg?style=flat-square
+[stars-url]: https://github.com/ioanniskousis/Newsweek/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ioanniskousis/Newsweek.svg?style=flat-square
+[issues-url]: https://github.com/ioanniskousis/Newsweek/issues
+<br/>
 # Newsweek
 This project demonstrates the use of Twitter’s Bootstrap framework by building a mock-up of Newsweek site that actually uses it
 
