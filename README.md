@@ -14,6 +14,27 @@ This project demonstrates the use of Twitter’s Bootstrap framework by building
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/ioanniskousis/Newsweek">
+    <img src="images/microverse.png" alt="Microverse Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Newsweek</h3>
+
+  <p align="center">
+    This project is part of the Microverse curriculum in HTML & CSS module!
+    <br />
+    <a href="https://github.com/ioanniskousis/Newsweek"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://repl.it/@ioanniskousis/Newsweek">View Demo</a>
+    <a href="https://github.com/ioanniskousis/Newsweek/issues">Report Bug</a>
+    <a href="https://github.com/ioanniskousis/Newsweek/issues">Request Feature</a>
+  </p>
+</p>
+
 > The structure of the index page (index.html) is based on the Newsweek.com main page
 > The page shows a variety of sections of links to articles and shows them responding to small, medium and large screens
 - Top Story
