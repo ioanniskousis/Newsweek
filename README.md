@@ -1,18 +1,18 @@
+# Newsweek
+This project demonstrates the use of Twitter’s Bootstrap framework by building a mock-up of Newsweek site that actually uses it
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[contributors-shield]: https://img.shields.io/github/contributors/ioanniskousis/Newsweek.svg?style=flat-square
-[contributors-url]: https://github.com/ioanniskousis/Newsweek/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ioanniskousis/Newsweek.svg?style=flat-square
-[forks-url]: https://github.com/ioanniskousis/Newsweek/network/members
-[stars-shield]: https://img.shields.io/github/stars/ioanniskousis/Newsweek.svg?style=flat-square
-[stars-url]: https://github.com/ioanniskousis/Newsweek/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ioanniskousis/Newsweek.svg?style=flat-square
-[issues-url]: https://github.com/ioanniskousis/Newsweek/issues
-<br/>
-# Newsweek
-This project demonstrates the use of Twitter’s Bootstrap framework by building a mock-up of Newsweek site that actually uses it
 
 > The structure of the index page (index.html) is based on the Newsweek.com main page
 > The page shows a variety of sections of links to articles and shows them responding to small, medium and large screens
@@ -82,6 +82,19 @@ Give a ⭐️ if you like this project!
 
 - Appreciation to my coding Partner John Ioannis Kousis and my mentor
 
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/ioanniskousis/Newsweek.svg?style=flat-square
+[contributors-url]: https://github.com/ioanniskousis/Newsweek/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ioanniskousis/Newsweek.svg?style=flat-square
+[forks-url]: https://github.com/ioanniskousis/Newsweek/network/members
+[stars-shield]: https://img.shields.io/github/stars/ioanniskousis/Newsweek.svg?style=flat-square
+[stars-url]: https://github.com/ioanniskousis/Newsweek/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ioanniskousis/Newsweek.svg?style=flat-square
+[issues-url]: https://github.com/ioanniskousis/Newsweek/issues
+
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
+
+
