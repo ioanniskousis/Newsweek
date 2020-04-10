@@ -80,7 +80,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Appreciation to my coding Partner John Ioannis Kousis and my mentor
+- Appreciation to my team-mates and my mentor
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
