@@ -29,7 +29,7 @@ This project demonstrates the use of Twitter’s Bootstrap framework by building
     <a href="https://github.com/ioanniskousis/Newsweek"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://repl.it/@ioanniskousis/Newsweek">View Demo</a>
+    <a href="https://rawcdn.githack.com/ioanniskousis/Newsweek/28c62a58c2666b8e3f333e49a76818bdcc00e66a/index.html">View Demo</a>
     <a href="https://github.com/ioanniskousis/Newsweek/issues">Report Bug</a>
     <a href="https://github.com/ioanniskousis/Newsweek/issues">Request Feature</a>
   </p>
